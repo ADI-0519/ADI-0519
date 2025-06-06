@@ -35,8 +35,8 @@ I am a current first year computer science student, pursuing my undergraduate st
   <li>Developed a vacuum cleaner robot using ROS with a finite state machine to manage cleaning, charging, and obstacle avoidance.</li>
 </ul>
 
-🛠 Dev setup
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,wasm)](https://skillicons.dev)
+## Dev setup
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,ubuntu,jupyter,chrome)](https://skillicons.dev)
 
 
 ## 🌐 Socials
