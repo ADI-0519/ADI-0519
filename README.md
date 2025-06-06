@@ -36,7 +36,7 @@ I am a current first year computer science student, pursuing my undergraduate st
 </ul>
 
 ## Dev setup
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,ubuntu,jupyter,chrome)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,ubuntu,jupyter,linux)](https://skillicons.dev)
 
 
 ## 🌐 Socials
