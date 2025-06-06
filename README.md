@@ -27,7 +27,7 @@ I am a current first year computer science student, pursuing my undergraduate st
   <li>Placed 3rd in UCL HackLondon 2025 and 4th in ICHack '25</li>
 </ul>
 
-## Smaller Projects
+## Learning Projects
 <ul>
   <li>Implementation of different data structures and algorithms in java/python (hashmap, binary search tree, tree, linked lists, array list, array stack, linked stack, linked queue, array queue, binary search, heap, quicksort, merge sort, bubble sort) </li>
   <li>Worked in a team of 4 to create a JavaFX-based simulation inspired by Conway’s Game of Life, where animals live, die, and reproduce based on multiple factors.</li>
@@ -36,7 +36,7 @@ I am a current first year computer science student, pursuing my undergraduate st
 </ul>
 
 ## Dev setup
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,ubuntu,jupyter,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,ubuntu,linux)](https://skillicons.dev)
 
 
 ## 🌐 Socials
