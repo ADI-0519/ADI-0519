@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 About Me
+## About Me
 I am a current first year computer science student, pursuing my undergraduate study in Artificial Intelligence at Kings College London.What initially piqued my interest in computational thinking and mathematics was the satisfaction I gained from decomposing problems to create eloquent solutions. The idea that a few lines of code, combined with mathematical logic could go on to solve real world problems fascinated me. I am particularly fascinated by the advancements in AI, ML, data science and exploring how we can make a positive impact through innovative solutions. Beyond code, I enjoy playing the guitar, challenging my friends to a game of chess, and nurturing a small vegetable garden in my free time. I am always open to learning, be it new technologies, creative pursuits, or everyday skills.
 
 ## Highlights and Achievements
@@ -35,6 +35,8 @@ I am a current first year computer science student, pursuing my undergraduate st
   <li>Developed a vacuum cleaner robot using ROS with a finite state machine to manage cleaning, charging, and obstacle avoidance.</li>
 </ul>
 
+🛠 Dev setup
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,wasm)](https://skillicons.dev)
 
 
 ## 🌐 Socials
