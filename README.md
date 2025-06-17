@@ -23,7 +23,7 @@ Beyond code, I enjoy playing the guitar, challenging my friends to a game of che
 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adiranjan2019@gmail.com)  [![Website](https://img.shields.io/badge/My%20Website-131313?logo=googlechrome&logoColor=white)](https://aditya-ranjan.vercel.app)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ADI-0519)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ADI-0519) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adiranjan2019@gmail.com)  [![Website](https://img.shields.io/badge/My%20Website-131313?logo=googlechrome&logoColor=white)](https://aditya-ranjan.vercel.app) 
 
 
 ## Highlights and Achievements
