@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am a current second year computer science student, pursuing my undergraduate study in Artificial Intelligence at Kings College London. What initially piqued my interest in computational thinking and mathematics was the satisfaction I gained from decomposing problems to create eloquent solutions. The idea that a few lines of code, combined with mathematical logic could go on to solve real world problems fascinated me. 
+I am a current second year computer science student, pursuing my undergraduate study in Artificial Intelligence at King's College London. What initially piqued my interest in computational thinking and mathematics was the satisfaction I gained from decomposing problems to create eloquent solutions. The idea that a few lines of code, combined with mathematical logic could go on to solve real world problems fascinated me. 
 
 I am particularly fascinated by the advancements in AI, ML, data science and exploring how we can make a positive impact through innovative solutions. 
 Beyond code, I enjoy playing the guitar, challenging my friends to a game of chess, and nurturing a small vegetable garden in my free time. I am always open to learning, be it new technologies, creative pursuits, or everyday skills.
@@ -28,9 +28,10 @@ Beyond code, I enjoy playing the guitar, challenging my friends to a game of che
 
 ## Highlights and Achievements
 <ul>
+  <li>Software Developer intern at Goldman Sachs </li>
   <li>Placed 1st in IBM Z Datathon 2025</li>
   <li>Spring Intern at Nomura</li>
-  <li>Placed in the top 5% globally in the IMC Prosperity 3 trading challenge.</li>
+  <li>Placed in the top 4% globally in the IMC Prosperity 3 trading challenge.</li>
   <li>Achieved a top 15 placement in Citadel Europe Terminal 2025</li>
   <li>Led a 20-member team to win 1st place in KCL Puzzled 2024, outperforming 250+ participants</li>
   <li>Placed 3rd in UCL HackLondon 2025 and 4th in ICHack '25</li>
