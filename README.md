@@ -1,20 +1,5 @@
 ## Hi there, I'm Aditya Ranjan 👋
 
-<!--
-**ADI-0519/ADI-0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me
 I am a current second year computer science student, pursuing my undergraduate study in Artificial Intelligence at King's College London. What initially piqued my interest in computational thinking and mathematics was the satisfaction I gained from decomposing problems to create eloquent solutions. The idea that a few lines of code, combined with mathematical logic could go on to solve real world problems fascinated me. 
 
@@ -34,7 +19,7 @@ Beyond code, I enjoy playing the guitar, challenging my friends to a game of che
   <li>Placed in the top 4% globally in the IMC Prosperity 3 trading challenge.</li>
   <li>Achieved a top 15 placement in Citadel Europe Terminal 2025</li>
   <li>Led a 20-member team to win 1st place in KCL Puzzled 2024, outperforming 250+ participants</li>
-  <li>Placed 3rd in UCL HackLondon 2025 and 4th in ICHack '25</li>
+  <li>Finalist @ Perplexity Hackathon, 4th @ Optiver's AIChessathon, Finalist @ ICHack'25 </li>
 </ul>
 
 
