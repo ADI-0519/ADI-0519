@@ -1,4 +1,4 @@
-## Hi there, I'm Aditya Ranjan 👋
+## Hi there, I'm Aditya Ranjan
 
 ## About Me
 I am a current second year computer science student, pursuing my undergraduate study in Artificial Intelligence at King's College London. What initially piqued my interest in computational thinking and mathematics was the satisfaction I gained from decomposing problems to create eloquent solutions. The idea that a few lines of code, combined with mathematical logic could go on to solve real world problems fascinated me. 
