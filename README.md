@@ -19,7 +19,7 @@ Beyond code, I enjoy playing the guitar, challenging my friends to a game of che
   <li>Placed in the top 4% globally in the IMC Prosperity 3 trading challenge.</li>
   <li>Achieved a top 15 placement in Citadel Europe Terminal 2025</li>
   <li>Led a 20-member team to win 1st place in KCL Puzzled 2024, outperforming 250+ participants</li>
-  <li>Finalist @ Perplexity Hackathon, 4th @ Optiver's AIChessathon, Finalist @ ICHack'25 </li>
+  <li>Finalist @ Perplexity Hackathon, Finalist @ Optiver's AIChessathon, Finalist @ ICHack'25 </li>
 </ul>
 
 
