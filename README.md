@@ -11,7 +11,18 @@ I recently completed a Software Engineering internship at Goldman Sachs, where I
 [Portfolio](https://aditya-ranjan.vercel.app) ·
 [Email](mailto:adiranjan2019@gmail.com)
 
-## Selected Projects
+## Experience & Achievements
+
+- **Software Engineering Intern - Goldman Sachs**
+- **1st Place - IBM Z Datathon London 2025**
+- **Top 4% globally - IMC Prosperity 3**
+- **Top 15 - Citadel Europe Terminal 2025**
+- **Finalist - Optiver AI Chessathon**
+- **Finalist - Perplexity Hackathon**
+- **3rd Place - UCL HackLondon 2025**
+- Spring Insight at **Nomura**
+
+## Featured Projects
 
 ### Ad Revenue Prediction Platform
 **Python · FastAPI · XGBoost · Kafka**
@@ -40,17 +51,6 @@ Developed a facility-location refinement that improved low-label accuracy by **8
 Led development of a browser extension used by **200+ neurodivergent users**.
 Built an OpenCV/FFmpeg processing pipeline using selective frame processing and caching, reducing flashing visuals by **85%**.
 
-## Experience & Achievements
-
-- **Software Engineering Intern - Goldman Sachs**
-- **1st Place - IBM Z Datathon London 2025**
-- **Top 4% globally - IMC Prosperity 3**
-- **Top 15 - Citadel Europe Terminal 2025**
-- **Finalist - Optiver AI Chessathon**
-- **Finalist - Perplexity Hackathon**
-- **3rd Place - UCL HackLondon 2025**
-- Spring Insight at **Nomura**
-
 ## Technologies
 
 **Languages:** Python, C, Java, TypeScript, JavaScript, SQL
@@ -60,5 +60,3 @@ Built an OpenCV/FFmpeg processing pipeline using selective frame processing and 
 **ML & Data:** PyTorch, scikit-learn, XGBoost, NumPy, Pandas, Polars, SciPy, MOSEK
 
 **Backend:** FastAPI, Celery
-
----
