@@ -50,7 +50,7 @@ Built a multimodal lecture search engine combining BGE-M3 dense retrieval, BM25,
 
 ## Technologies
 
-**Languages:** Python, C, Java, TypeScript, JavaScript, SQL, R
-**Systems & Infrastructure:** Linux, AWS, Docker, Kafka, gRPC, PostgreSQL, Redis, Git
-**ML & Data:** PyTorch, scikit-learn, XGBoost, NumPy, Pandas, Polars, SciPy, MOSEK
+**Languages:** Python, C, Java, TypeScript, JavaScript, SQL, R  
+**Systems & Infrastructure:** Linux, AWS, Docker, Kafka, gRPC, PostgreSQL, Redis, Git  
+**ML & Data:** PyTorch, scikit-learn, XGBoost, NumPy, Pandas, Polars, SciPy, MOSEK  
 **Backend:** FastAPI, Celery, Django, SQLAlchemy, Pydantic, REST APIs, WebSockets, Uvicorn, pytest
