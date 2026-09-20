@@ -6,10 +6,7 @@ I am particularly fascinated by the advancements in AI, ML, data science and exp
 I recently completed a Software Engineering internship at Goldman Sachs, where I worked on migrating a stateful collateral optimisation system to AWS. My work included gRPC routing for persistent MOSEK models, actor-style concurrency for parallel optimisation sessions, and performance improvements across Polars transformations, sparse-matrix construction, and solver execution.
 
 ## Socials
-[Github](https://github.com/ADI-0519) .
-[LinkedIn](https://linkedin.com/in/aditya-ranjan19) ·
-[Portfolio](https://aditya-ranjan.vercel.app) ·
-[Email](mailto:adiranjan2019@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ADI-0519) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adiranjan2019@gmail.com)  [![Website](https://img.shields.io/badge/My%20Website-131313?logo=googlechrome&logoColor=white)](https://aditya-ranjan.vercel.app) 
 
 ## Experience & Achievements
 
