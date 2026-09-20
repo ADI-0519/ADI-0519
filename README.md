@@ -14,9 +14,9 @@ I recently completed a Software Engineering internship at Goldman Sachs, where I
 - **1st Place - IBM Z Datathon London 2025**
 - **Top 4% globally - IMC Prosperity 3**
 - **Top 15 - Citadel Europe Terminal 2025**
-- **Finalist - Optiver AI Chessathon**
-- **Finalist - Perplexity Hackathon**
-- **3rd Place - UCL HackLondon 2025**
+- **Finalist @ Optiver AI Chessathon**
+- **Finalist @ Perplexity Hackathon**
+- **3rd Place @ UCL HackLondon 2025**
 - Spring Insight at **Nomura**
 
 ## Featured Projects
@@ -51,9 +51,6 @@ Built a multimodal lecture search engine combining BGE-M3 dense retrieval, BM25,
 ## Technologies
 
 **Languages:** Python, C, Java, TypeScript, JavaScript, SQL, R
-
 **Systems & Infrastructure:** Linux, AWS, Docker, Kafka, gRPC, PostgreSQL, Redis, Git
-
 **ML & Data:** PyTorch, scikit-learn, XGBoost, NumPy, Pandas, Polars, SciPy, MOSEK
-
 **Backend:** FastAPI, Celery, Django, SQLAlchemy, Pydantic, REST APIs, WebSockets, Uvicorn, pytest
